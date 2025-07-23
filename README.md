@@ -32,11 +32,13 @@ Welcome to the **Open Source Club Website**! This project is a modern, responsiv
 ## 🖼️ Gallery
 Below are some screenshots of the project:
 
-![Main Screenshot](image.png)
-![Staff Coordinators](staffcoordinators.png)
-![Body Section](body.png)
-![About Me](aboutme.png)
 ![Header](header.png)
+![About Me](aboutme.png)
+![Body Section](body.png)
+![Staff Coordinators](staff.png)
+![Footer](footer.png)
+
+
 
 ## 🚀 Technologies Used
 - HTML5, CSS3
