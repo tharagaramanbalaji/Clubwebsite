@@ -22,49 +22,21 @@ Welcome to the **Open Source Club Website**! This project is a modern, responsiv
 │   └── script.js
 ├── images/ (or Images/)
 │   ├── [all club images and assets]
+├── image.png
+├── staffcoordinators.png
+├── body.png
+├── aboutme.png
+├── header.png
 ```
 
 ## 🖼️ Gallery
-Below are some of the images used in this project:
+Below are some screenshots of the project:
 
-### Logos & Icons
-![Crescent Logo](images/crescent.png)
-![Club Logo](images/club_logo.png)
-![Vector](images/vector.png)
-
-### Backgrounds & Banners
-![Landing Page Background](images/landing_page_bg.png)
-![About Us Background](images/about_us_bg.png)
-![Projects Page Background](images/projects_page_bg.jpg)
-![Events Background](images/events_bg.png)
-![Forms Background](images/forms_bg.jpg)
-![Counter Background](images/counter.png)
-![Count](images/count.png)
-![BG](images/bg.png)
-![Crescent Theme](images/crescent_theme.png)
-
-### Members & Staff
-![Member 1](images/member-1.png)
-![Member 2](images/member-2.png)
-![Member 3](images/member-3.png)
-![Member 4](images/member-4.png)
-![Member 5](images/member-5.png)
-![Sharon Priya](images/sharon_priya.png)
-![Soundariya](images/soundariya.jpg)
-![Amsavalli](images/amsavalli.jpg)
-
-### Other Assets
-![Join Button](images/joinbtn.png)
-![Image 1](images/image1-u.png)
-![Image 2](images/image2-u.png)
-![Image 3](images/image3-u.png)
-![Image 4](images/image4-u.png)
-![Image 5](images/image5-u.png)
-![Image 6](images/image6.jpeg)
-![Group 6](images/group 6.png)
-![About](images/about.png)
-
-> **Note:** If your images are in the `Images/` folder, update the paths accordingly in the markdown above.
+![Main Screenshot](image.png)
+![Staff Coordinators](staffcoordinators.png)
+![Body Section](body.png)
+![About Me](aboutme.png)
+![Header](header.png)
 
 ## 🚀 Technologies Used
 - HTML5, CSS3
@@ -79,7 +51,7 @@ Below are some of the images used in this project:
    git clone https://github.com/yourusername/your-repo.git
    ```
 2. Open `index.html` in your browser.
-3. Make sure the `css/`, `js/`, and `images/` (or `Images/`) folders are in the same directory as `index.html`.
+3. Make sure the `css/`, `js/`, and screenshot files are in the same directory as `index.html`.
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
